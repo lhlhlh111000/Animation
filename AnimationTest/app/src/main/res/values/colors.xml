@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- bar背景色 -->
+    <color name="bg_title_bar_normal">#00c4af</color>
+    <color name="bg_title_bar_normal_night">#FF313131</color>
+    <color name="bg_statu_bar">#FFF3F5F5</color>
+
+    <!-- 背景色 -->
+    <color name="bg_gray">#FFECECEC</color>
+    <color name="bg_gray_night">#FF37383C</color>
+    <color name="transparent_cover">#11000000</color>
+    <color name="transparent_share_half">#80000000</color>
+    <color name="transparent_white_cover">#11FFFFFF</color>
+    <color name="transparent_white_half">#BFFFFFFF</color>
+    <color name="bg_card_view_night">#FF2F3033</color>
+    <color name="bg_gray_light">#FFEDF1F2</color>
+    <color name="bg_gray_white">#D1D1D1</color>
+    <color name="gray_white">#10000000</color>
+    
+    <color name="bg_column_light">#BFFFFFFF</color>
+    <color name="bg_column_night">#FF252628</color>
+
+    <color name="bg_transparent_70">#BF000000</color>
+
+    <!-- 文本色 -->
+    <color name="text_adtitle_light">#ffffff</color>
+    <color name="text_adtitle_night">#b2b2b2</color>
+
+    <color name="text_integral_add">#F8696B</color>
+    <color name="text_integral_sub">#56ADE3</color>
+    <color name="text_sandybrown">#F7740A</color>
+    <color name="text_green_light">#FF00C4AF</color>
+    <color name="text_green_light_night">#FF008E7D</color>
+    <color name="text_gray_light">#FF919191</color>
+    <color name="text_black_light">#FF48494B</color>
+    <color name="text_gray_dark">#FF878787</color>
+    <color name="text_black_gray">#FF8c8c8c</color>
+    <color name="text_has_read">#FF8D8D8D</color>
+    <color name="text_title_bar_night">#FFAEB2B1</color>
+    <color name="text_micrno_tab_night">#FF919191</color>
+
+    <color name="text_blue_light">#FF00C4AF</color>
+    <color name="text_blue_dark">#FF70787B</color>
+
+    <!-- 按钮 -->
+    <color name="btn_green_normal">#FF00C4AF</color>
+    <color name="btn_green_normal_night">#FF00897A</color>
+    <color name="btn_green_press">#FF007F72</color>
+    <color name="btn_red_normal">#fc401b</color>
+    <color name="btn_red_normal_night">#b02d13</color>
+
+    <!--default-->
+    <color name="channel_item_normal_stroke">#FF00C4AF</color>
+    <color name="channel_item_normal_stroke_night">#FF00887A</color>
+    <color name="channel_item_normal_bg">#00FFFFFF</color>
+    <!--pressed-->
+    <color name="channel_item_pressed_stroke">#FF00C4AF</color>
+    <color name="channel_item_pressed_bg">#00FFFFFF</color>
+    <!--disable-->
+    <color name="channel_item_disabled_stroke">#FF00C4AF</color>
+    <color name="channel_item_disabled_bg">#FFefefef</color>
+    <color name="channel_item_disabled_bg_night">#33efefef</color>
+    <!--select-->
+    <color name="channel_item_selected_stroke">#FF00C4AF</color>
+    <color name="channel_item_selected_bg">#00FFFFFF</color>
+    <!--drag-->
+    <color name="channel_item_drag_stroke">#ffd2d2d2</color>
+    <color name="channel_item_drag_bg">#fff5f5f5</color>
+    
+    <!-- 其他栏目 -->
+    <!--default-->
+    <color name="channel_item_other_normal_stroke">#FFA7A7A7</color>
+    <color name="channel_item_other_normal_bg">#FFECECEC</color>
+    <!--pressed-->
+    <color name="channel_item_other_pressed_stroke">#FF7C7C7C</color>
+    <color name="channel_item_other_pressed_bg">#FFECECEC</color>
+    <!--disable-->
+    <color name="channel_item_other_disabled_stroke">#FF7C7C7C</color>
+    <color name="channel_item_other_disabled_bg">#ffefefef</color>
+    <!--select-->
+    <color name="channel_item_other_selected_stroke">#FF7C7C7C</color>
+    <color name="channel_item_other_selected_bg">#00000000</color>
+    <!--drag-->
+    <color name="channel_item_other_drag_stroke">#ffd2d2d2</color>
+    <color name="channel_item_other_drag_bg">#fff5f5f5</color>
+
+
+    <!-- vote相关颜色 -->
+    <color name="vote_color">#00c4af</color>
+    <color name="vote_color_night">#008E7D</color>
+
+    <color name="text_color">#a5aeb5</color>
+    <color name="text_color_night">#82898f</color>
+
+    <color name="vote_bg_color">#e5e5e5</color>
+    <color name="vote_bg_color_night">#a0a0a0</color>
+
+    <color name="text_red">#FFE4363D</color>
+    <color name="text_red_night">#bb0000</color>
+
+    <color name="text_green">#009d00</color>
+    <color name="text_green_night">#007c00</color>
+
+</resources>

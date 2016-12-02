@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp">
+
+    <Button
+        android:id="@+id/btn_download"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="8dp"
+        android:text="下载"/>
+
+    <ImageView
+        android:id="@+id/imv_anim_item_icon"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/ic_launcher"
+        android:contentDescription="@null"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/imv_anim_item_icon"
+        android:textSize="18sp"
+        android:text="This is title~, just for test!"
+        android:layout_toRightOf="@id/imv_anim_item_icon"
+        android:layout_toLeftOf="@id/btn_download"
+        android:singleLine="true"/>
+
+</RelativeLayout>
